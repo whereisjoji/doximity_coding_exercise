@@ -1,0 +1,39 @@
+<div style="border: 1px solid #000001; padding: 2px, margin-bottom: 5px;">
+	<b>WARNING: RISK OF SERIOUS HARM OR DEATH WITH INTRAVENOUS ADMINISTRATION; SUBLOCADE RISK EVALUATION AND MITIGATION STRATEGY</b>
+	<br>
+	<b>•  Serious harm or death could result if administered intravenously. SUBLOCADE forms a solid mass upon contact with body fluids and may cause occlusion, local tissue damage, and thrombo-embolic events, including life threatening pulmonary emobli, if administered intravenously.</b>
+</div>
+<br>
+<b>IMPORTANT SAFETY INFORMATION</b>
+<br>
+<br>
+Prescription use of this product is limited under the Drug Addiction Treatment Act.
+<br>
+<br>
+<b>CONTRAINDICATIONS</b>
+<br>
+<br>
+SUBLOCADE should not be administered to patients who have been shown to be hypersensitive to buprenorphine or any component of the ATRIGEL<sup>®<sup> delivery system
+<br>
+<br>
+<b>Please click here to full <a href="https://www.sublocade.com/Content/pdf/prescribing-information.pdf" target="_blank>Prescribing Information</a>, including BOXED WARNING</b>
+
+
+
+ERRORS/SUGGESTIONS:
+
+1.	Bold Tags <b> are being used to draw attention to certain lines of copy.  According to standards, they should only be used in cases where there is no other more appropriate tag to use.  I would suggest using <strong>, <em>, <mark>, or one of the heading tags <h1> through <h6>, depending on what the intent behind drawing attention to the copy is.  This suggestion can positively impact cross-browser compatability, organic SEO, ADA compliance, and overall UX.
+
+2.	Line break tags <br> are being used to layout content throughout the document.  I would suggest using paragraph tags <p> to let browsers automatically apply margin property and/or targeting specific elements with css to add vertical space between elements/copy.
+
+3.	Bullet Points are used in lists, but one appears to be used solely to draw attention to copy.  Additionally, inserting text symbols in HTML should be avoided as they are not fully cross-browser compatible and may render as junk text on the screen.  If absolutely necessary, I would explore using HTML Entities (ISO Latin-1 hexadecimal/decimal code) to create the bullet point. Though not a full-proof solution, the odds of compatability are a little higher than inserting a text symbol into HTML.  I would suggest using <strong>, <em>, <mark>, or one of the heading tags <h1> through <h6>, depending on what the intent behind drawing attention to the copy is.  The latter suggestion can positively impact cross-browser compatability, organic SEO, ADA compliance, and overall UX.
+
+4.	The padding declaration in the div tag <div> should end in with a semicolon (;).
+
+5.	The closing superscript tag <sup> is missing the slash (/). 
+
+6.	Copyright text symbols in HTML should be avoided as they are not fully cross-browser compatible and may render as junk text on the screen.  I would suggest using HTML Entities (ISO Latin-1 hexadecimal/decimal code) to create the copyright symbol. Though not all HTML Entities are compatible, the copyright symbol is a very widely used entity so the odds of compatability are much higher than inserting a copyright text symbol into HTML.
+
+7.	The target attribute of the anchor tag <a> should end with a closing quotation mark (").
+
+8.	PDF documents often have ADA accessibility issues as they are typically viewed using a separate application or plug-in, and can thus cause confusion and navigation difficulties. I would suggest improving the copy to something like "click here to download Prescribing Information PDF" where "download the Prescribing Information PDF" is the clear and descriptive link text, in conjunction with aria attributes.  The most accessible friendly option would be to avoid the pdf file and link to html.  These suggestions can positively impact organic SEO, ADA compliance, and overall UX.
